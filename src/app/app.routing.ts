@@ -17,7 +17,7 @@ import { WeekendsComponent } from './weekends.component';
 const routes: Routes = [
     {
       path: '',
-      redirectTo: 'about',
+      redirectTo: 'downloadApp',
       pathMatch: 'full'
     },
     {
